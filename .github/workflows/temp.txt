@@ -4,3 +4,4 @@ dummy commit2
 dummy commit3
 dummy commit4
 dummy commit5
+dummy commit6
