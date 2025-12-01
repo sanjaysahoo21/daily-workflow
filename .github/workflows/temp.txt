@@ -1,4 +1,3 @@
 dummy commit0
 dummy commit1
-dummy commit2
-dummy 
+dummy commit
