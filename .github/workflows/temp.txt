@@ -1,1 +1,1 @@
-dummy commity
+dummy commit
